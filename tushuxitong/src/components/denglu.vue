@@ -1,14 +1,10 @@
 <template>
-  <div>
-
-  </div>
-
+    
 </template>
 
 <script>
     export default {
-        name: "yhguanli",
-
+        name: "denglu"
     }
 </script>
 

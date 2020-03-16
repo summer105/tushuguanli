@@ -40,4 +40,9 @@ export default {
 </script>
 
 <style  scoped>
+  .leftnav{
+    height: 557px;
+    border-right:1px solid #ccc ;
+  }
+
 </style>

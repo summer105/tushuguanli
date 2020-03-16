@@ -1,6 +1,6 @@
 <template>
     <div>
-      图书查询
+
     </div>
 </template>
 <script>
