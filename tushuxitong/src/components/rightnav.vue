@@ -5,7 +5,7 @@
       <div class="userbox">
         <!-- 用户头像 -->
         <div class="imgbox">
-          <img src="../assets/logo.png" />
+          <img src="../assets/logo2.png" />
         </div>
         <!-- 用户名 -->
         <span class="username">alice</span>
@@ -13,14 +13,12 @@
         <div class="downlist">
           <el-dropdown>
           <span class="el-dropdown-link">
-            更多
-            <i class="el-icon-arrow-down el-icon--right"></i>
+            退出
+<!--            <i class="el-icon-arrow-down el-icon&#45;&#45;right"></i>-->
           </span>
-            <el-dropdown-menu slot="dropdown">
-              <el-dropdown-item>退出</el-dropdown-item>
-              <el-dropdown-item>狮子头</el-dropdown-item>
-              <el-dropdown-item>螺蛳粉</el-dropdown-item>
-            </el-dropdown-menu>
+<!--            <el-dropdown-menu slot="dropdown">-->
+<!--              <el-dropdown-item>退出</el-dropdown-item>-->
+<!--            </el-dropdown-menu>-->
           </el-dropdown>
         </div>
       </div>

@@ -5,7 +5,7 @@
       <!-- 顶部左侧logo -->
       <el-col :span="4">
         <div class="logoBox">
-          <img class="logo" src="./assets/logo.png" />
+          <img class="logo" src="./assets/logo2.png" />
         </div>
         <!-- 顶部右侧导航 -->
       </el-col>

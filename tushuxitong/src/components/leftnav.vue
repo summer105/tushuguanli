@@ -24,7 +24,6 @@
         </template>
         <el-menu-item-group>
           <el-menu-item index="/xitongguanli/yhguanli">用户管理</el-menu-item>
-          <el-menu-item index="/xitongguanli/jsguanli">角色管理</el-menu-item>
           <el-menu-item index="/xitongguanli/bookguanli">图书管理</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
